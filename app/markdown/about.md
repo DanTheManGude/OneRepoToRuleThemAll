@@ -46,4 +46,31 @@ Some of the most common ways of getting involved include doing some of the follo
 * Participating in Lab Cleanup Sessions
 
 If you are interested in learning more about the Society or have any
-questions, feel free to [contact one of our officers](/officers) or [find us on the internet](/social)!
+questions, feel free to [contact one of our officers](/officers)!
+
+Connect with SSE on the Web:
+-------------------
+
+## [Slack](https://rit-sse.slack.com)
+Best way to stay in touch with the SSE. Used for announcements and general discussions.
+
+## [GitHub](https://github.com/rit-sse)
+Used to store repositories and projects created by the SSE.
+
+## [Facebook Group](https://www.facebook.com/groups/ritsse/)
+Closed Facebook Group for valid RIT students. Best way to stay informed with social media updates. 
+
+## [Facebook Page](https://www.facebook.com/ssebot/)
+Public-facing Facebook page representing the SSE. Watch our talks or reach out to us with networking opportunities here!
+
+## [Instagram](https://www.instagram.com/rit_sse/)
+Follow us on Instagram to see what we have been up to!
+
+## [Twitter](https://twitter.com/rit_sse)
+Follow us on Twitter!
+
+## [Talks on Facebook](https://www.facebook.com/ssebot)
+Primary source of streaming our Tech Talks.
+
+## [Talks on YouTube](https://www.youtube.com/user/SSETechtalks)
+Additional channel for streaming tech talks.

@@ -1,0 +1,23 @@
+version: "3.1"
+
+services:
+    onerepo:
+        build:
+            context: .
+            dockerfile: Dockerfile.dev
+            args:
+                api_root: 'http://localhost:3000/api/v2/'
+        ports:
+            - "5000:5000"
+        volumes:
+            - ./app/:/app/app
+    nodeapi:
+        build: ../node-api
+        ports:
+            - "3000:3000"
+        environment:
+            - DB_HOST_OVERRIDE=postgres
+        depends_on:
+            - postgres
+    postgres:
+        image: postgres
